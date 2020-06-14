@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5dcf211-2a22-4d04-8861-3adf574ceae4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1awIapwwlMFI40LHnUXRj6Udm0i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.data.extractors.current.id" value="Comma-separated (CSV)_id" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/analysis.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PycharmProjects\sy" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PycharmProjects\sy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.processing">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="sy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\PycharmProjects\sy\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="analysis" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="sy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cleaning" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="sy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cleaning.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generation" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="sy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="identity" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="sy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/identity.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="processing" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="sy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/processing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.identity" />
+      <item itemvalue="Python.generation" />
+      <item itemvalue="Python.cleaning" />
+      <item itemvalue="Python.analysis" />
+      <item itemvalue="Python.processing" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5dcf211-2a22-4d04-8861-3adf574ceae4" name="Default Changelist" comment="" />
+      <created>1587640295700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587640295700</updated>
+      <workItem from="1587640341770" duration="9272000" />
+      <workItem from="1587721682527" duration="1088000" />
+      <workItem from="1587724022699" duration="183000" />
+      <workItem from="1587730597793" duration="4905000" />
+      <workItem from="1587798776792" duration="12306000" />
+      <workItem from="1587886324058" duration="3447000" />
+      <workItem from="1587891480397" duration="4794000" />
+      <workItem from="1587909101584" duration="4780000" />
+      <workItem from="1587993803837" duration="682000" />
+      <workItem from="1587994670482" duration="2369000" />
+      <workItem from="1588067726112" duration="5660000" />
+      <workItem from="1588078613518" duration="832000" />
+      <workItem from="1588079469934" duration="3346000" />
+      <workItem from="1588082852267" duration="3735000" />
+      <workItem from="1588086987888" duration="413000" />
+      <workItem from="1588087552494" duration="94000" />
+      <workItem from="1588087657706" duration="109000" />
+      <workItem from="1588141021464" duration="1352000" />
+      <workItem from="1588142845927" duration="1273000" />
+      <workItem from="1588144129686" duration="34000" />
+      <workItem from="1591253413497" duration="70000" />
+      <workItem from="1591253547925" duration="7000" />
+      <workItem from="1591254370227" duration="6449000" />
+      <workItem from="1591262744613" duration="15181000" />
+      <workItem from="1591334174900" duration="21419000" />
+      <workItem from="1591362063923" duration="9930000" />
+      <workItem from="1591531125132" duration="5997000" />
+      <workItem from="1591604039102" duration="3296000" />
+      <workItem from="1591611290063" duration="21000" />
+      <workItem from="1591611435438" duration="2587000" />
+      <workItem from="1591618721956" duration="605000" />
+      <workItem from="1591681365772" duration="32661000" />
+      <workItem from="1591797195145" duration="50534000" />
+      <workItem from="1592037625953" duration="15869000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="395" y="91" key="#Inspections" timestamp="1587723896536">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="395" y="91" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1587723896536" />
+    <state x="555" y="120" key="#Python" timestamp="1588086158664">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="120" key="#Python/0.0.1536.824@0.0.1536.824" timestamp="1588086158664" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592055075076">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1592055075076" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591890908770">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1591890908770" />
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog" timestamp="1588076257718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1588076257718" />
+    <state x="582" y="255" key="FileChooserDialogImpl" timestamp="1591975170042">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="582" y="255" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591975170042" />
+    <state width="1493" height="290" key="GridCell.Tab.0.bottom" timestamp="1592059526811">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="290" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1592059526811" />
+    <state width="1493" height="290" key="GridCell.Tab.0.center" timestamp="1592059526811">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="290" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1592059526811" />
+    <state width="1493" height="290" key="GridCell.Tab.0.left" timestamp="1592059526811">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="290" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1592059526811" />
+    <state width="1493" height="290" key="GridCell.Tab.0.right" timestamp="1592059526811">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="290" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1592059526811" />
+    <state width="1537" height="269" key="GridCell.Tab.1.bottom" timestamp="1588087402319">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="269" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588087402319" />
+    <state width="1537" height="269" key="GridCell.Tab.1.center" timestamp="1588087402318">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="269" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1588087402318" />
+    <state width="1537" height="269" key="GridCell.Tab.1.left" timestamp="1588087402318">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="269" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1588087402318" />
+    <state width="1537" height="269" key="GridCell.Tab.1.right" timestamp="1588087402318">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1537" height="269" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1588087402318" />
+    <state x="270" y="57" key="SettingsEditor" timestamp="1591976217145">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591976217145" />
+    <state x="499" y="217" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1591688335814">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="217" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/0.0.1536.824@0.0.1536.824" timestamp="1591688335814" />
+    <state x="962" y="177" key="com.intellij.database.run.actions.ShowCsvFormatsAction$ForExport" timestamp="1591613229250">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="962" y="177" key="com.intellij.database.run.actions.ShowCsvFormatsAction$ForExport/0.0.1536.824@0.0.1536.824" timestamp="1591613229250" />
+    <state x="314" y="133" width="1150" height="689" key="editAsTableFormatDialogDimension" timestamp="1591957876645">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="314" y="133" width="1150" height="689" key="editAsTableFormatDialogDimension/0.0.1536.824@0.0.1536.824" timestamp="1591957876645" />
+    <state x="468" y="13" width="600" height="798" key="find.popup" timestamp="1591268007798">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="468" y="13" width="600" height="798" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1591268007798" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1591701080661">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1591701080661" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sy$identity.coverage" NAME="identity Coverage Results" MODIFIED="1591957209998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sy$cleaning.coverage" NAME="cleaning Coverage Results" MODIFIED="1592059091272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sy$analysis.coverage" NAME="analysis Coverage Results" MODIFIED="1592059369105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sy$processing.coverage" NAME="processing Coverage Results" MODIFIED="1592059497520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sy$generation.coverage" NAME="generation Coverage Results" MODIFIED="1591944458739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sy$faker.coverage" NAME="fakerdata Coverage Results" MODIFIED="1591280160858" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sy$hello.coverage" NAME="hello Coverage Results" MODIFIED="1588068746218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/sy$python_test.coverage" NAME="python_test Coverage Results" MODIFIED="1588078752243" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sy$sy.coverage" NAME="sy Coverage Results" MODIFIED="1588068721696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/sy$numpy_test.coverage" NAME="numpy_test Coverage Results" MODIFIED="1588085746882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sy$pandas_test.coverage" NAME="faker Coverage Results" MODIFIED="1591258238006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/sy$fakerdata.coverage" NAME="generation Coverage Results" MODIFIED="1591361879521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
